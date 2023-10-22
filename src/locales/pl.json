@@ -1,0 +1,23 @@
+{
+    "landingMessage": "MYSTERY BOX Z FIGURKAMI LEGO",
+    "landingButton": "WYLOSUJ FIGURKI!",
+    "chooseFig": "WYBIERZ FIGURKĘ",
+    "showDetails": "POKAŻ SZCZEGÓŁY",
+    "toCart": "PRZEJDŹ DO PODSUMOWANIA",
+    "submit": "ZATWIERDŹ",
+    "summary": "PODSUMOWANIE",
+    "shippingDetails": "DANE DO WYSYŁKI",
+    "numberOfParts": "Ta figurka posiada {{num}} części",
+    "orderSuccess": "Otrzymaliśmy Twoje zamówienie. Dziękujemy!",
+    "forms": {
+        "name": "Imię",
+        "surname": "Nazwisko",
+        "phone_number": "Numer telefonu",
+        "email": "Email",
+        "date_of_birth": "Data urodzenia",
+        "address": "Adres",
+        "city": "Miasto",
+        "state": "Województwo",
+        "zip_code": "Kod pocztowy"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "landingMessage": "LEGO MINIFIGS MYSTERY BOX",
+    "landingButton": "LET'S GO!",
+    "chooseFig": "CHOOSE YOUR MINIFIG",
+    "showDetails": "Show details",
+    "toCart": "PROCEED TO SHIPMENT",
+    "submit": "SUBMIT",
+    "summary": "SUMMARY",
+    "shippingDetails": "SHIPPING DETAILS",
+    "numberOfParts": "There are {{num}} parts in this minifig",
+    "orderSuccess": "We have received your order. Thank you!",
+    "emptyCart": "Your cart is empty. Open a Mystery Box to get a minifig!",
+    "forms": {
+        "name": "Name",
+        "surname": "Surname",
+        "phone_number": "Phone number",
+        "email": "Email",
+        "date_of_birth": "Date of birth",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "zip_code": "Zip code"
+    }
+}
